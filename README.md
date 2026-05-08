@@ -1,6 +1,6 @@
 # 遗物大师
 
-[发布页下载](https://github.com/QingTian-222/Sts2Mod_relicOrbit/releases/tag/v1.0)
+[发布页下载]([https://github.com/QingTian-222/Sts2Mod_relicOrbit/releases/tag/v1.0](https://github.com/QingTian-222/Sts2Mod_relicMaster/releases/tag/v1.1))
 
 ## 安装方法
 
