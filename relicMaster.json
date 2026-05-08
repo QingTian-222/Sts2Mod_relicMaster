@@ -1,0 +1,11 @@
+{
+  "id": "relicMaster",
+  "name": "遗物大师",
+  "author": "QingTian",
+  "description": "无视条件触发遗物",
+  "version": "v1.2.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": ["BaseLib"],
+  "affects_gameplay": true
+}

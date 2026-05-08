@@ -1,0 +1,4 @@
+{
+	"RELICMASTER-RELIC_BARRAGE.title": "遗物齐射",
+	"RELICMASTER-RELIC_BARRAGE.description": "随机[gold]激活[/gold]{RELICMASTER-TriggerTimes:diff()}件遗物，每[gold]激活[/gold]一个遗物造成{Damage:diff()}点伤害。\n[gold]无限升级[/gold]。"
+}
